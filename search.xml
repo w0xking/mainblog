@@ -93,6 +93,8 @@
             
             <tag> poc </tag>
             
+            <tag> 推荐 </tag>
+            
         </tags>
       
     </entry>
@@ -197,6 +199,8 @@
       
         <tags>
             
+            <tag> 推荐 </tag>
+            
             <tag> 网络诈骗 </tag>
             
             <tag> 电信诈骗 </tag>
@@ -223,6 +227,8 @@
       
       
         <tags>
+            
+            <tag> 推荐 </tag>
             
             <tag> 道学 </tag>
             
@@ -278,6 +284,8 @@
       
         <tags>
             
+            <tag> 推荐 </tag>
+            
             <tag> 红蓝对抗 </tag>
             
             <tag> 密码 </tag>
@@ -308,6 +316,8 @@
             <tag> 博客 </tag>
             
             <tag> 域名 </tag>
+            
+            <tag> 热门 </tag>
             
         </tags>
       
@@ -363,6 +373,8 @@
             
             <tag> 博客 </tag>
             
+            <tag> 热门 </tag>
+            
             <tag> live2d </tag>
             
         </tags>
@@ -416,6 +428,8 @@
         <tags>
             
             <tag> 博客 </tag>
+            
+            <tag> 热门 </tag>
             
             <tag> Markdown语法 </tag>
             
