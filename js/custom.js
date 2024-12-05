@@ -462,3 +462,5 @@ function cardTimes() {
         document.getElementById("schedule-days").innerHTML = daysUntilNewYear;
     }
 }
+
+
