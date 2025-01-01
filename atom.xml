@@ -6,7 +6,7 @@
   <link href="https://blog.w0xking.us.kg/atom.xml" rel="self"/>
   
   <link href="https://blog.w0xking.us.kg/"/>
-  <updated>2024-11-24T13:10:32.509Z</updated>
+  <updated>2025-01-01T09:20:05.614Z</updated>
   <id>https://blog.w0xking.us.kg/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>ArgoX小白版教程</title>
+    <link href="https://blog.w0xking.us.kg/posts/4340.html"/>
+    <id>https://blog.w0xking.us.kg/posts/4340.html</id>
+    <published>2024-12-31T16:00:01.000Z</published>
+    <updated>2025-01-01T09:20:05.614Z</updated>
+    
+    
+    <summary type="html">有东西被加密了, 请输入密码查看.</summary>
+    
+    
+    
+    <category term="serv00" scheme="https://blog.w0xking.us.kg/categories/serv00/"/>
+    
+    
+    <category term="教程" scheme="https://blog.w0xking.us.kg/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="argo" scheme="https://blog.w0xking.us.kg/tags/argo/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
@@ -443,27 +464,6 @@
     <category term="Hexo" scheme="https://blog.w0xking.us.kg/tags/Hexo/"/>
     
     <category term="博客" scheme="https://blog.w0xking.us.kg/tags/%E5%8D%9A%E5%AE%A2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>hexo教程</title>
-    <link href="https://blog.w0xking.us.kg/posts/f0a4488f.html"/>
-    <id>https://blog.w0xking.us.kg/posts/f0a4488f.html</id>
-    <published>2021-01-03T07:24:34.000Z</published>
-    <updated>2024-11-23T10:49:17.469Z</updated>
-    
-    
-    <summary type="html">hexo博客搭建教程</summary>
-    
-    
-    
-    <category term="教程" scheme="https://blog.w0xking.us.kg/categories/%E6%95%99%E7%A8%8B/"/>
-    
-    
-    <category term="Hexo" scheme="https://blog.w0xking.us.kg/tags/Hexo/"/>
-    
-    <category term="加密" scheme="https://blog.w0xking.us.kg/tags/%E5%8A%A0%E5%AF%86/"/>
     
   </entry>
   
