@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>ip-test</title>
+      <link href="/posts/a66.html"/>
+      <url>/posts/a66.html</url>
+      
+        <content type="html"><![CDATA[<!DOCTYPE html><html lang="zh"><head><meta name="viewport" content="width=device-width,height=device-height,inital-scale=1.0,maximum-scale=1.0,user-scalable=no;">  <meta name="apple-mobile-web-app-capable" content="yes">  <meta name="apple-mobile-web-app-status-bar-style" content="black">  <meta name="format-detection" content="telephone=no">  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script>// 当页面加载完毕时执行函数window.onload = function() {    // 发送请求到 API 并获取 IP 地址    fetch('https://api.ip.sb/ip')        .then(response => response.text()) // 将响应转换为文本        .then(ip => {            // 将获取到的 IP 地址设置为输入框的值            document.getElementById('ipInput').value = ip;        })        .catch(error => console.error('无法获取 IP 地址:', error)); // 处理错误};</script><script>        function ip2() {            var input = document.getElementById("ipInput").value;            var url = "https://scamalytics.com/ip/" + encodeURIComponent(input);            window.location.href = url;        }    </script>    <script>        function ip() {            var input = document.getElementById("ipInput").value;            var url = "https://ping0.cc/ip/" + encodeURIComponent(input);            window.location.href = url;        }    </script>    <script>        function tcping() {            var input = document.getElementById("ipInput").value;            var url = "https://www.itdog.cn/tcping/" + encodeURIComponent(input);            window.location.href = url;        }    </script></head><body><h1>IP查询工具</h1><h3 style="color: red;">本工具可查询 IP数据、各个网站连通性、IP纯净度</h3><h2>---IP地址查询器---<h2><h4>注：下滑可查看更多<h4><h5>首次加载可能较慢，请耐心等待！如果无法访问请关闭广告拦截器再试<h5><iframe src="https://ip.skk.moe/simple" style="width: 100%; border: 0"></iframe><br><h2>---IP数据查询---<h2><h3>IPv4（优先显示IPv6）<h3><iframe src="https://api.ip.sb/ip" style="width: 100%; height:30px;border: 0"></iframe><iframe src="https://ping0.cc/geo" style="width: 100%; height:50px;border: 0"></iframe><h2>---IP属地&纯净度查询---<h2> <input type="text" id="ipInput" placeholder="输入IP地址" required><button onclick="ip()">查询1</button><button onclick="ip2()">查询2</button><h4>例：8.8.8.8<h4><h4>注：查询完后，分越低IP越纯净。<br><br></body></html>]]></content>
+      
+      
+      <categories>
+          
+          <category> 网络 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> ip延时 </tag>
+            
+            <tag> ip测速 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>ArgoX小白版教程</title>
       <link href="/posts/4340.html"/>
       <url>/posts/4340.html</url>
@@ -116,11 +143,11 @@
       
         <tags>
             
-            <tag> 推荐 </tag>
-            
             <tag> 漏洞 </tag>
             
             <tag> poc </tag>
+            
+            <tag> 推荐 </tag>
             
         </tags>
       
@@ -226,11 +253,11 @@
       
         <tags>
             
+            <tag> 推荐 </tag>
+            
             <tag> 网络诈骗 </tag>
             
             <tag> 电信诈骗 </tag>
-            
-            <tag> 推荐 </tag>
             
         </tags>
       
