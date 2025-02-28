@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>w0xking</title>
+  <title>king blog</title>
   
   <subtitle>分享网络安全与科技生活</subtitle>
   <link href="https://blog.w0xking.us.kg/atom.xml" rel="self"/>
   
   <link href="https://blog.w0xking.us.kg/"/>
-  <updated>2025-02-06T11:05:22.962Z</updated>
+  <updated>2025-02-28T11:19:06.598Z</updated>
   <id>https://blog.w0xking.us.kg/</id>
   
   <author>
@@ -17,11 +17,32 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>网络行为规定</title>
+    <link href="https://blog.w0xking.us.kg/posts/8fa9.html"/>
+    <id>https://blog.w0xking.us.kg/posts/8fa9.html</id>
+    <published>2025-02-28T10:33:34.000Z</published>
+    <updated>2025-02-28T11:19:06.598Z</updated>
+    
+    
+    <summary type="html">为了规范党员网络行为，发挥党员在网络空间作用，根据《中国共产党党员教育管理工作条例》等有关党内法规，制定本规定。</summary>
+    
+    
+    
+    <category term="党务" scheme="https://blog.w0xking.us.kg/categories/%E5%85%9A%E5%8A%A1/"/>
+    
+    
+    <category term="网络行为" scheme="https://blog.w0xking.us.kg/tags/%E7%BD%91%E7%BB%9C%E8%A1%8C%E4%B8%BA/"/>
+    
+    <category term="网络空间作用" scheme="https://blog.w0xking.us.kg/tags/%E7%BD%91%E7%BB%9C%E7%A9%BA%E9%97%B4%E4%BD%9C%E7%94%A8/"/>
+    
+  </entry>
+  
+  <entry>
     <title>ip-test</title>
-    <link href="https://blog.w0xking.us.kg/posts/a66.html"/>
-    <id>https://blog.w0xking.us.kg/posts/a66.html</id>
+    <link href="https://blog.w0xking.us.kg/posts/ip.html"/>
+    <id>https://blog.w0xking.us.kg/posts/ip.html</id>
     <published>2025-02-06T11:00:27.000Z</published>
-    <updated>2025-02-06T11:05:22.962Z</updated>
+    <updated>2025-02-28T10:32:46.756Z</updated>
     
     
       
@@ -433,30 +454,6 @@
       
     <summary type="html">&lt;p&gt;本来想一个版本一直稳定用下去的，但是今天看到主题的版本更新修复了BUG。。。这能不更新吗？所以抄起家伙开始更新了！&lt;/p&gt;
 &lt;h2 id=&quot;更新主题&quot;&gt;&lt;a href=&quot;#更新主题&quot; class=&quot;headerlink&quot; title=&quot;更新主题&quot;&gt;&lt;/a&gt;&lt;a href=&quot;</summary>
-      
-    
-    
-    
-    <category term="教程" scheme="https://blog.w0xking.us.kg/categories/%E6%95%99%E7%A8%8B/"/>
-    
-    
-    <category term="Hexo" scheme="https://blog.w0xking.us.kg/tags/Hexo/"/>
-    
-    <category term="博客" scheme="https://blog.w0xking.us.kg/tags/%E5%8D%9A%E5%AE%A2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Butterfly 安裝文檔(二) 主題頁面  Butterfly</title>
-    <link href="https://blog.w0xking.us.kg/posts/5372cc32.html"/>
-    <id>https://blog.w0xking.us.kg/posts/5372cc32.html</id>
-    <published>2021-03-01T10:18:49.000Z</published>
-    <updated>2024-12-01T02:26:43.610Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;Front-matter&quot;&gt;&lt;a href=&quot;#Front-matter&quot; class=&quot;headerlink&quot; title=&quot;Front-matter&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://butterfly.js.org/posts/dc584b87/#</summary>
       
     
     
