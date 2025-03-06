@@ -2055,14 +2055,14 @@ span.tags-punctuation i {
   opacity: 0.2;
   width: 100%;
   height: 100%;
-  background-image: url("https://img.skyking.us.kg/file/1733620694465_02 (3).png");
+  background-image: url("https://img.skyking.us.kg/file/1733620681347_02 (1).png");
   background-size: cover;
   background-position: center;
   pointer-events: none;
   background-repeat: no-repeat;
 }
 [data-theme=dark] #global_bg {
-  background-image: url("https://img.skyking.us.kg/file/1733620681347_02 (1).png");
+  background-image: url("https://img.skyking.us.kg/file/1733620694465_02 (3).png");
 }
 .article-container {
   overflow-wrap: break-word;
