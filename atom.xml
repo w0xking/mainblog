@@ -6,7 +6,7 @@
   <link href="https://blog.skyk.us.kg/atom.xml" rel="self"/>
   
   <link href="https://blog.skyk.us.kg/"/>
-  <updated>2025-03-07T11:11:53.814Z</updated>
+  <updated>2025-04-01T11:16:11.894Z</updated>
   <id>https://blog.skyk.us.kg/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>文体馆部分操作</title>
+    <link href="https://blog.skyk.us.kg/posts/a7b4.html"/>
+    <id>https://blog.skyk.us.kg/posts/a7b4.html</id>
+    <published>2025-04-01T07:32:19.000Z</published>
+    <updated>2025-04-01T11:16:11.894Z</updated>
+    
+    
+    <summary type="html">带班文体馆设备操作</summary>
+    
+    
+    
+    <category term="工作记录" scheme="https://blog.skyk.us.kg/categories/%E5%B7%A5%E4%BD%9C%E8%AE%B0%E5%BD%95/"/>
+    
+    
+    <category term="西北大学" scheme="https://blog.skyk.us.kg/tags/%E8%A5%BF%E5%8C%97%E5%A4%A7%E5%AD%A6/"/>
+    
+    <category term="网络中心" scheme="https://blog.skyk.us.kg/tags/%E7%BD%91%E7%BB%9C%E4%B8%AD%E5%BF%83/"/>
+    
+  </entry>
   
   <entry>
     <title>网络行为规定</title>
@@ -437,32 +458,6 @@
     <category term="Hexo" scheme="https://blog.skyk.us.kg/tags/Hexo/"/>
     
     <category term="加密" scheme="https://blog.skyk.us.kg/tags/%E5%8A%A0%E5%AF%86/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Markdown语法及原理从入门到高级</title>
-    <link href="https://blog.skyk.us.kg/posts/417e2c66.html"/>
-    <id>https://blog.skyk.us.kg/posts/417e2c66.html</id>
-    <published>2021-04-01T10:18:49.000Z</published>
-    <updated>2024-12-01T02:27:25.136Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;一、Markdown纯文本基本语法&quot;&gt;&lt;a href=&quot;#一、Markdown纯文本基本语法&quot; class=&quot;headerlink&quot; title=&quot;一、Markdown纯文本基本语法&quot;&gt;&lt;/a&gt;一、Markdown纯文本基本语法&lt;/h2&gt;&lt;h3 id=&quot;1-标题&quot;</summary>
-      
-    
-    
-    
-    <category term="教程" scheme="https://blog.skyk.us.kg/categories/%E6%95%99%E7%A8%8B/"/>
-    
-    
-    <category term="博客" scheme="https://blog.skyk.us.kg/tags/%E5%8D%9A%E5%AE%A2/"/>
-    
-    <category term="Markdown语法" scheme="https://blog.skyk.us.kg/tags/Markdown%E8%AF%AD%E6%B3%95/"/>
-    
-    <category term="热门" scheme="https://blog.skyk.us.kg/tags/%E7%83%AD%E9%97%A8/"/>
     
   </entry>
   
