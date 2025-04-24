@@ -6,7 +6,7 @@
   <link href="https://blog.skyk.us.kg/atom.xml" rel="self"/>
   
   <link href="https://blog.skyk.us.kg/"/>
-  <updated>2025-04-13T01:57:50.163Z</updated>
+  <updated>2025-04-24T11:13:07.110Z</updated>
   <id>https://blog.skyk.us.kg/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>IP协议与DNS协议在Web网站中的应用</title>
+    <link href="https://blog.skyk.us.kg/posts/5de8.html"/>
+    <id>https://blog.skyk.us.kg/posts/5de8.html</id>
+    <published>2025-04-24T10:52:01.000Z</published>
+    <updated>2025-04-24T11:13:07.110Z</updated>
+    
+    
+    <summary type="html">详解IP与DNS</summary>
+    
+    
+    
+    <category term="网络技术" scheme="https://blog.skyk.us.kg/categories/%E7%BD%91%E7%BB%9C%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="IP,DNS" scheme="https://blog.skyk.us.kg/tags/IP-DNS/"/>
+    
+  </entry>
   
   <entry>
     <title>文体馆部分操作</title>
@@ -137,9 +156,9 @@
     <category term="教程" scheme="https://blog.skyk.us.kg/categories/%E6%95%99%E7%A8%8B/"/>
     
     
-    <category term="博客" scheme="https://blog.skyk.us.kg/tags/%E5%8D%9A%E5%AE%A2/"/>
-    
     <category term="Hexo" scheme="https://blog.skyk.us.kg/tags/Hexo/"/>
+    
+    <category term="博客" scheme="https://blog.skyk.us.kg/tags/%E5%8D%9A%E5%AE%A2/"/>
     
     <category term="Markdown" scheme="https://blog.skyk.us.kg/tags/Markdown/"/>
     
@@ -184,9 +203,9 @@
     <category term="教程" scheme="https://blog.skyk.us.kg/categories/%E6%95%99%E7%A8%8B/"/>
     
     
-    <category term="博客" scheme="https://blog.skyk.us.kg/tags/%E5%8D%9A%E5%AE%A2/"/>
-    
     <category term="Hexo" scheme="https://blog.skyk.us.kg/tags/Hexo/"/>
+    
+    <category term="博客" scheme="https://blog.skyk.us.kg/tags/%E5%8D%9A%E5%AE%A2/"/>
     
   </entry>
   
@@ -405,9 +424,9 @@
     <category term="教程" scheme="https://blog.skyk.us.kg/categories/%E6%95%99%E7%A8%8B/"/>
     
     
-    <category term="博客" scheme="https://blog.skyk.us.kg/tags/%E5%8D%9A%E5%AE%A2/"/>
-    
     <category term="Hexo" scheme="https://blog.skyk.us.kg/tags/Hexo/"/>
+    
+    <category term="博客" scheme="https://blog.skyk.us.kg/tags/%E5%8D%9A%E5%AE%A2/"/>
     
     <category term="github action" scheme="https://blog.skyk.us.kg/tags/github-action/"/>
     
@@ -433,27 +452,6 @@
     <category term="热门" scheme="https://blog.skyk.us.kg/tags/%E7%83%AD%E9%97%A8/"/>
     
     <category term="live2d" scheme="https://blog.skyk.us.kg/tags/live2d/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>hexo-blog-encrypt</title>
-    <link href="https://blog.skyk.us.kg/posts/cb557a52.html"/>
-    <id>https://blog.skyk.us.kg/posts/cb557a52.html</id>
-    <published>2021-04-03T08:24:34.000Z</published>
-    <updated>2025-04-13T01:57:48.291Z</updated>
-    
-    
-    <summary type="html">有东西被加密了, 请输入密码查看.</summary>
-    
-    
-    
-    <category term="教程" scheme="https://blog.skyk.us.kg/categories/%E6%95%99%E7%A8%8B/"/>
-    
-    
-    <category term="Hexo" scheme="https://blog.skyk.us.kg/tags/Hexo/"/>
-    
-    <category term="加密" scheme="https://blog.skyk.us.kg/tags/%E5%8A%A0%E5%AF%86/"/>
     
   </entry>
   
