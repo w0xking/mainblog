@@ -76,33 +76,6 @@
   </entry>
   
   <entry>
-    <title>ip-test</title>
-    <link href="https://blog.skyk.us.kg/posts/ip.html"/>
-    <id>https://blog.skyk.us.kg/posts/ip.html</id>
-    <published>2025-02-06T11:00:27.000Z</published>
-    <updated>2025-03-02T12:32:02.434Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;!DOCTYPE html&gt;
-&lt;html lang=&quot;zh&quot;&gt;
-&lt;head&gt;
-&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width,height=device-height,inital-scale=1.0,maximum-scal</summary>
-      
-    
-    
-    
-    <category term="网络" scheme="https://blog.skyk.us.kg/categories/%E7%BD%91%E7%BB%9C/"/>
-    
-    
-    <category term="ip延时" scheme="https://blog.skyk.us.kg/tags/ip%E5%BB%B6%E6%97%B6/"/>
-    
-    <category term="ip测速" scheme="https://blog.skyk.us.kg/tags/ip%E6%B5%8B%E9%80%9F/"/>
-    
-  </entry>
-  
-  <entry>
     <title>ArgoX小白版教程</title>
     <link href="https://blog.skyk.us.kg/posts/4340.html"/>
     <id>https://blog.skyk.us.kg/posts/4340.html</id>
@@ -452,6 +425,27 @@
     <category term="热门" scheme="https://blog.skyk.us.kg/tags/%E7%83%AD%E9%97%A8/"/>
     
     <category term="live2d" scheme="https://blog.skyk.us.kg/tags/live2d/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo-blog-encrypt</title>
+    <link href="https://blog.skyk.us.kg/posts/cb557a52.html"/>
+    <id>https://blog.skyk.us.kg/posts/cb557a52.html</id>
+    <published>2021-04-03T08:24:34.000Z</published>
+    <updated>2025-04-13T01:57:48.291Z</updated>
+    
+    
+    <summary type="html">有东西被加密了, 请输入密码查看.</summary>
+    
+    
+    
+    <category term="教程" scheme="https://blog.skyk.us.kg/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="Hexo" scheme="https://blog.skyk.us.kg/tags/Hexo/"/>
+    
+    <category term="加密" scheme="https://blog.skyk.us.kg/tags/%E5%8A%A0%E5%AF%86/"/>
     
   </entry>
   
