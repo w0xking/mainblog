@@ -6,7 +6,7 @@
   <link href="https://blog.skyk.us.kg/atom.xml" rel="self"/>
   
   <link href="https://blog.skyk.us.kg/"/>
-  <updated>2025-05-12T14:21:12.134Z</updated>
+  <updated>2025-05-13T11:24:29.223Z</updated>
   <id>https://blog.skyk.us.kg/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>八项规定精神学习</title>
+    <link href="https://blog.skyk.us.kg/posts/f5a4.html"/>
+    <id>https://blog.skyk.us.kg/posts/f5a4.html</id>
+    <published>2025-05-13T10:50:27.000Z</published>
+    <updated>2025-05-13T11:24:29.223Z</updated>
+    
+    
+    <summary type="html">党中央决定，自2025年全国两会后至7月在全党开展深入贯彻中央八项规定精神学习教育，准确领会中央八项规定及中央八项规定实施细则的核心要义，推动学习教育入脑入心、见行见效、融为一体，以优良的政风带动民风社风。</summary>
+    
+    
+    
+    <category term="党务" scheme="https://blog.skyk.us.kg/categories/%E5%85%9A%E5%8A%A1/"/>
+    
+    
+    <category term="八项规定精神" scheme="https://blog.skyk.us.kg/tags/%E5%85%AB%E9%A1%B9%E8%A7%84%E5%AE%9A%E7%B2%BE%E7%A5%9E/"/>
+    
+  </entry>
   
   <entry>
     <title>逆向API实现AI chat自由</title>
@@ -250,7 +269,7 @@
     <link href="https://blog.skyk.us.kg/posts/b01882d5.html"/>
     <id>https://blog.skyk.us.kg/posts/b01882d5.html</id>
     <published>2024-06-04T09:26:05.000Z</published>
-    <updated>2024-12-01T02:28:26.942Z</updated>
+    <updated>2025-05-13T11:25:51.719Z</updated>
     
     
     <summary type="html">条例自2024年1月1日起施行。</summary>
@@ -269,7 +288,7 @@
     <link href="https://blog.skyk.us.kg/posts/da81a947.html"/>
     <id>https://blog.skyk.us.kg/posts/da81a947.html</id>
     <published>2024-03-26T10:35:53.000Z</published>
-    <updated>2025-05-11T11:39:35.589Z</updated>
+    <updated>2025-05-13T11:25:37.207Z</updated>
     
     
     <summary type="html">文章部署AI摘要&#39;https://postsummary.zhheo.com/theme/custom.html&#39;</summary>
@@ -315,7 +334,7 @@
     <link href="https://blog.skyk.us.kg/posts/8e6daf7b.html"/>
     <id>https://blog.skyk.us.kg/posts/8e6daf7b.html</id>
     <published>2024-01-01T10:35:47.000Z</published>
-    <updated>2024-12-01T02:19:07.623Z</updated>
+    <updated>2025-05-13T11:25:45.549Z</updated>
     
     
     <summary type="html">春秋时期老子所著的哲学作品，又称《德道经》。</summary>
@@ -423,29 +442,6 @@
     <category term="博客" scheme="https://blog.skyk.us.kg/tags/%E5%8D%9A%E5%AE%A2/"/>
     
     <category term="github action" scheme="https://blog.skyk.us.kg/tags/github-action/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>向你的Hexo里放上一只live2d桌宠!</title>
-    <link href="https://blog.skyk.us.kg/posts/dc8d366.html"/>
-    <id>https://blog.skyk.us.kg/posts/dc8d366.html</id>
-    <published>2021-04-10T10:18:49.000Z</published>
-    <updated>2024-12-01T02:27:47.412Z</updated>
-    
-    
-    <summary type="html">有东西被加密了, 请输入密码查看.</summary>
-    
-    
-    
-    <category term="教程" scheme="https://blog.skyk.us.kg/categories/%E6%95%99%E7%A8%8B/"/>
-    
-    
-    <category term="博客" scheme="https://blog.skyk.us.kg/tags/%E5%8D%9A%E5%AE%A2/"/>
-    
-    <category term="热门" scheme="https://blog.skyk.us.kg/tags/%E7%83%AD%E9%97%A8/"/>
-    
-    <category term="live2d" scheme="https://blog.skyk.us.kg/tags/live2d/"/>
     
   </entry>
   
